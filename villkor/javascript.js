@@ -11,3 +11,5 @@ if(hour == 6){
 }else{
     myH1.innerHTML = "För sent!";
 }
+
+//Här kommer en kommentar från VSC
