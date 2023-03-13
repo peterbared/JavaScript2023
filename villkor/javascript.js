@@ -1,6 +1,7 @@
 const hour = new Date().getHours();
 let myH1 = document.querySelector("h1");
 
+//Testar att lägga till en kommentar med GIT Desktop
 
 if(hour == 6){
     myH1.innerHTML = "Du kan sova lite till";
