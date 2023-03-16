@@ -20,3 +20,8 @@ b2ref.addEventListener("click",function(){
     s2ref.classList.remove("hide");
     s3ref.classList.add("hide");
 });
+b3ref.addEventListener("click",function(){
+    s1ref.classList.add("hide");
+    s2ref.classList.add("hide");
+    s3ref.classList.remove("hide");
+});
