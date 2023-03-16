@@ -1,0 +1,26 @@
+body {
+  max-width: 600px;
+  margin: auto;
+  font-size: 18px;
+}
+
+img {
+  width: 100%;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+nav a {
+  padding: 2rem;
+}
+
+p {
+  padding: 2rem 0;
+  line-height: 130%;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,19 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    font-size: 18px;
+}
+img{
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    a{
+        padding: 2rem;
+    }
+}
+p{
+    padding: 2rem 0;
+    line-height: 130%;
+}

@@ -3,8 +3,11 @@ Underlag till en kurs i JavaScript ES6. Koden är därför inte alltid opimerat 
 
 1. <a href="/variabler">Variabler</a>
 2. eventlistener
-3. villkor
-4. loopar
-5. functions
-6. ...promise
-7. ...fetch
+3. dom-class
+4. popupnav
+5. villkor
+6. loopar
+7. functions
+8. try catch
+9. ...promise
+10. ...fetch
