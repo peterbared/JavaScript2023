@@ -15,8 +15,15 @@ body{
     font-size: $font-size;
     margin:0;
 }
-h1{
-    text-align: center;
-    color:red;
-   
+nav{
+    display: flex;
+    img{
+        width:200px;
+    }
+}
+main{
+    width: 600px;
+    img{
+        width: 100%;
+    }
 }

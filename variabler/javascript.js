@@ -11,3 +11,6 @@ myH1ref.classList.add("test");
 myH1ref.style.fontSize = "55px";
 myH1ref.style.color = "red";
 
+setTimeout(function() {
+    myH1ref.style.opacity = 0;
+}, 2000);
