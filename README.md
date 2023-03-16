@@ -5,6 +5,7 @@ Underlag till en kurs i JavaScript ES6. Koden är därför inte alltid opimerat 
 2. <a href="/eventlistener">Eventlistener</a>
 3. <a href="/dom-class">DOM och classList</a>
 4. <a href="/popupnav">Popupnav</a>
+4. <a href="/nav-slidein">Nav Slidein</a>
 5. <a href="/villkor">Villkor</a>
 6. <a href="/loopar">Loopar</a>
 7. <a href="/functions">Functions</a>
